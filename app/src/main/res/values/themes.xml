@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema principal azul -->
+    <style name="Theme.CrudBdSQLite" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Color de la barra de herramientas (ActionBar) -->
+        <item name="colorPrimary">@color/blue_500</item>
+        <!-- Color de acento para botones, switches, etc. -->
+        <item name="colorAccent">@color/blue_300</item>
+        <!-- Color de fondo general -->
+        <item name="android:windowBackground">@color/blue_50</item>
+        <!-- Color del texto -->
+        <item name="android:textColor">@android:color/black</item>
+        <!-- Color del texto de los iconos en la barra de acción -->
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+</resources>
